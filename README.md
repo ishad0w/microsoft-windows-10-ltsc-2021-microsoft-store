@@ -1,5 +1,5 @@
-# Micorosft Windows 10 LTSC 2021 (21H1) fixes...
-# and Micorosft Store Installer! :)
+# Microsoft Windows 10 LTSC 2021 (21H1) fixes...
+# and Microsoft Store Installer! :)
 
 How to Download?
 * [Releases](https://github.com/ishad0w-pub/microsoft-windows-10-ltsc-2021-microsoft-store/releases) -> __Download ZIP__.

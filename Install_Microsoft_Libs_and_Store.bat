@@ -49,6 +49,6 @@ exit /b
 set "name=%~1"
 set "arch=%~2"
 set "ext=.%~3"
-for /f "tokens=1* delims=" %%i in ('dir /b /s "*%name%*%arch%*%ext%" 2^>nul') do (powershell add-appxprovisionedpackage -online -packagepath '%%i' -erroraction silentlycontinue)
+for /f "tokens=1* delims=" %%i in ('dir /b /s "*%name%*%arch%*%ext%" 2^>nul') do (powershell add-appxprovisionedpackage -online -packagepath '%%i' -skiplicense -erroraction silentlycontinue)
 
 exit /b

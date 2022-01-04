@@ -1,7 +1,8 @@
-# Micorosft Windows 10 LTSC 2021 (21H1) fixes and Store Installer! :)
+# Micorosft Windows 10 LTSC 2021 (21H1) fixes...
+# and Micorosft Store Installer! :)
 
 How to Download?
-* Code -> __Download ZIP__.
+* [Releases](https://github.com/ishad0w-pub/microsoft-windows-10-ltsc-2021-microsoft-store/releases) -> __Download ZIP__.
 
 __Script__ tldr:
 1. Installing libs NET.Native.Framework, NET.Native.Runtime, UI.Xaml, VCLibs)

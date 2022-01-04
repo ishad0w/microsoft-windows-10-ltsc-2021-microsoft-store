@@ -1,5 +1,18 @@
-# Micorosft Windows 10 LTSC 2021 (21H1) Libs fix + Micorosft Store installer
+# Micorosft Windows 10 LTSC 2021 (21H1) fixes and Store Installer! :)
 
-1. First bat install must have libs (at least for Windows Clipboard and Sensor Keyboard Functionality)
-2. Install Latest Microsoft Store
+How to Download?
+* Code -> __Download ZIP__.
 
+__Script__ tldr:
+1. Installing libs NET.Native.Framework, NET.Native.Runtime, UI.Xaml, VCLibs)
+2. Installing Microsoft Store *(you can close the script window at this step if you DON'T want to install store)*.
+
+__PS__: Script __must__ Run as Administrator!
+
+# Windows 10 LTSC (2021\21H1) Fixes List:
+
+* Windows Clipboard History (Win + V)
+* WIndows Snipping Tool (and [Snip & Sketch *(need to install manually)*](https://www.microsoft.com/en-us/p/snip-sketch/9mz95kl8mr0l)) Hotkeys (Win + Shift + S)
+* Windows On-Screen Keyboard (OSK)
+
+And many more!

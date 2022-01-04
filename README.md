@@ -16,3 +16,10 @@ __PS__: Script __must__ Run as Administrator!
 * Windows On-Screen Keyboard (OSK)
 
 And many more!
+
+# Easy built-in Windows 10 Microsoft Store install command
+
+Run as Administrator:
+```
+wsreset -i
+```

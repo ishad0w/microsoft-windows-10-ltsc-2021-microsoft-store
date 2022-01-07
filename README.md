@@ -17,7 +17,7 @@ __PS__: Script __must__ Run as Administrator!
 
 And many more!
 
-# Easy built-in Windows 10 Microsoft Store install command
+# Easy built-in Microsoft Store install command
 
 Run as Administrator:
 ```
